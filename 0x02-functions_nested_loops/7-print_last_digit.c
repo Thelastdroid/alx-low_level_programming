@@ -4,6 +4,7 @@
  * print_last_digit - prints the last digit of the number
  * @c: The value analysed
  * Return: The last digit
+ * n: input
 */
 
 int print_last_digit(int n)
