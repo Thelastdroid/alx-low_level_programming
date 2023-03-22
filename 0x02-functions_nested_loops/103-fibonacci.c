@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include i<stdio.h>
 
 /**
  * main - prints the sum of even fib sequence
